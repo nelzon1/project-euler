@@ -1,0 +1,6 @@
+c:\users\jaken\documents\visual studio 2015\Projects\euler28\euler28\bin\Debug\euler28.exe.config
+C:\Users\jaken\Documents\Visual Studio 2015\Projects\euler28\euler28\bin\Debug\euler28.exe
+C:\Users\jaken\Documents\Visual Studio 2015\Projects\euler28\euler28\bin\Debug\euler28.pdb
+C:\Users\jaken\Documents\Visual Studio 2015\Projects\euler28\euler28\obj\Debug\euler28.exe
+C:\Users\jaken\Documents\Visual Studio 2015\Projects\euler28\euler28\obj\Debug\euler28.pdb
+C:\Users\jaken\documents\visual studio 2015\Projects\euler28\euler28\obj\Debug\euler28.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\bin\Debug\Euler29.exe.config
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\obj\Debug\Euler29.csprojResolveAssemblyReference.cache
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\bin\Debug\Euler29.exe
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\bin\Debug\Euler29.pdb
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\obj\Debug\Euler29.exe
+c:\users\jaken\documents\visual studio 2015\Projects\Euler29\Euler29\obj\Debug\Euler29.pdb

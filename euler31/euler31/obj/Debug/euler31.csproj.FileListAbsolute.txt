@@ -1,0 +1,6 @@
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\bin\Debug\euler31.exe.config
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\bin\Debug\euler31.exe
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\bin\Debug\euler31.pdb
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\obj\Debug\euler31.csprojResolveAssemblyReference.cache
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\obj\Debug\euler31.exe
+c:\users\jaken\documents\visual studio 2015\Projects\euler31\euler31\obj\Debug\euler31.pdb

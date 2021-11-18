@@ -1,0 +1,5 @@
+﻿  euler69_2.cpp
+c:\users\jaken\documents\visual studio 2015\projects\euler69_2\euler69_2\euler69_2.cpp(33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\jaken\documents\visual studio 2015\projects\euler69_2\euler69_2\euler69_2.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  euler69_2.vcxproj -> C:\Users\jaken\documents\visual studio 2015\Projects\euler69_2\Debug\euler69_2.exe
+  euler69_2.vcxproj -> C:\Users\jaken\documents\visual studio 2015\Projects\euler69_2\Debug\euler69_2.pdb (Full PDB)
