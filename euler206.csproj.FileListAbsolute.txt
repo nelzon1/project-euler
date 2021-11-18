@@ -1,0 +1,7 @@
+C:\coding\c#\euler206\euler206\bin\Debug\euler206.exe.config
+C:\coding\c#\euler206\euler206\bin\Debug\euler206.exe
+C:\coding\c#\euler206\euler206\bin\Debug\euler206.pdb
+C:\coding\c#\euler206\euler206\obj\Debug\euler206.csprojAssemblyReference.cache
+C:\coding\c#\euler206\euler206\obj\Debug\euler206.csproj.CoreCompileInputs.cache
+C:\coding\c#\euler206\euler206\obj\Debug\euler206.exe
+C:\coding\c#\euler206\euler206\obj\Debug\euler206.pdb

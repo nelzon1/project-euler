@@ -1,0 +1,4 @@
+﻿  euler145.cpp
+c:\coding\c++\euler145\euler145\euler145.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\coding\c++\euler145\euler145\euler145.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  euler145.vcxproj -> c:\coding\c++\euler145\Debug\euler145.exe

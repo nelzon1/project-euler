@@ -1,0 +1,3 @@
+﻿  euler86.cpp
+c:\coding\c++\euler86\euler86\euler86.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  euler86.vcxproj -> c:\coding\c++\euler86\Debug\euler86.exe

@@ -1,0 +1,4 @@
+﻿  euler94.cpp
+c:\coding\c++\euler94\euler94\euler94.cpp(53): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\coding\c++\euler94\euler94\euler94.cpp(54): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  euler94.vcxproj -> C:\coding\c++\euler94\Debug\euler94.exe

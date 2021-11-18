@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  euler95_2.cpp
+c:\coding\c++\euler95\euler95\euler95_2.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  euler95.vcxproj -> C:\coding\c++\euler95\Debug\euler95.exe
